@@ -1,0 +1,4 @@
+<!-- robots.txt -->
+User-agent: *
+Allow: /
+Sitemap: https://equipment-commissioning-oman.alwejhagroup.com/sitemap.xml
